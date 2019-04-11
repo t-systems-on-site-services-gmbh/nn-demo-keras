@@ -4,6 +4,8 @@ This is some demo code to learn to use neural networks for image recognition. It
 - [01-MNIST-dense.ipynb](https://github.com/t-systems-on-site-services-gmbh/nn-demo-keras/blob/master/01-MNIST-dense.ipynb) is the first example. It uses a fully connected neural network.
 - [02-MNIST-conv.ipynb](https://github.com/t-systems-on-site-services-gmbh/nn-demo-keras/blob/master/02-MNIST-conv.ipynb) is the second example. It builds in the first but uses a convolutional neural network. Here you can examine the improvement of accuracy although the network has fewer params.
 
+If you want to learn more about this topic I can very much recommend the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) from Francois Chollet.
+
 ## Installation
 1. install Conda (Python 3.7): https://docs.conda.io/en/latest/miniconda.html
 2. make sure to have direct internet access or configure a web-proxy (for git and conda) - see web-proxy with conda below
