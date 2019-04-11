@@ -7,7 +7,7 @@ This is some demo code to learn to use neural networks for image recognition. It
 ## Installation
 1. install Conda (Python 3.7): https://docs.conda.io/en/latest/miniconda.html
 2. make sure to have direct internet access or configure a web-proxy (for git and conda) - see web-proxy with conda below
-3. check out this project: `git clone https://github.com/PhilipMay/nn-demo-keras.git`
+3. check out this project: `git clone https://github.com/t-systems-on-site-services-gmbh/nn-demo-keras.git`
 4. change to the `nn-demo-keras` project directory
 5. create new conda environment with python version 3.6: `conda create --name nn-demo python=3.6`
 6. activate the new conda environment: `conda activate nn-demo`
