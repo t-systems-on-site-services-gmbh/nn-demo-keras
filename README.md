@@ -1,4 +1,4 @@
-# nn-demo-keras
+# Neural Networks Demo with Keras
 This is some demo code to learn to use neural networks for image recognition. It uses the MNIST dataset of handwritten digits. Technological we use Python, Tensorflow, Keras and Jupyter Notebooks to do the job.
 Demo notebooks for neural networks.
 
