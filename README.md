@@ -1,10 +1,10 @@
 # Neural Networks Demo with Keras
-This is some demo code to learn to use neural networks for image recognition. It uses the MNIST dataset of handwritten digits. Technological we use [Python](https://www.python.org/), [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/) and [Jupyter Notebooks](https://jupyter.org/) to do the job.
+This is a demo code to learn how to use neural networks for image recognition. It uses the MNIST dataset of handwritten digits. Technological we use [Python](https://www.python.org/), [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/) and [Jupyter Notebooks](https://jupyter.org/) to do the job.
 
 - [01-MNIST-dense.ipynb](https://github.com/t-systems-on-site-services-gmbh/nn-demo-keras/blob/master/01-MNIST-dense.ipynb) is the first example. It uses a fully connected neural network.
-- [02-MNIST-conv.ipynb](https://github.com/t-systems-on-site-services-gmbh/nn-demo-keras/blob/master/02-MNIST-conv.ipynb) is the second example. It builds in the first but uses a convolutional neural network. Here you can examine the improvement of accuracy although the network has fewer params.
+- [02-MNIST-conv.ipynb](https://github.com/t-systems-on-site-services-gmbh/nn-demo-keras/blob/master/02-MNIST-conv.ipynb) is the second example. It is based on the first example, but uses a convolutional neural network. Here you can examine the improvement of accuracy, although the network has fewer params.
 
-If you want to learn more about this topic I can very much recommend the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) from Francois Chollet.
+If you want to learn more about this topic, I very much recommend the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) from Francois Chollet.
 
 ## Installation
 1. install Conda (Python 3.7): https://docs.conda.io/en/latest/miniconda.html
@@ -19,7 +19,7 @@ If you want to learn more about this topic I can very much recommend the book [D
 10. load the first notebook and execute it
 
 ## Use a web-proxy with conda
-To use a web-proxy with conda you have to create a `.condarc` with the following content:
+To use a web-proxy with conda, you have to create a `.condarc` with the following content:
 
 ```
 proxy_servers:
